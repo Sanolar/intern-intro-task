@@ -9,7 +9,7 @@
 - Java  
 
 **One Tech Skill I Want to Improve:**  
-I want to improve my Git/Github skills, and I also want to learn more programming language.  
+I want to improve my Git/Github skills and learn more programming language.  
 
 **Fun Fact About Me:**  
 I have a tech talent, and I am ready to work on it.
