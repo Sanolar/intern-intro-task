@@ -12,5 +12,5 @@
 I want to improve my Git/Github skills, and I also want to learn more programming language.  
 
 **Fun Fact About Me:**  
-I believe I can learn any skills in as much as I'm determine to adding it to my skill bank.
+I have a tech talent, and I am ready to work on it.
 
